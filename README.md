@@ -1,3 +1,3 @@
 ## Parcial de App Moveis
 
-!(foto)[./assets/tabaio..PNG]
+![ft](./assets/tabaio..PNG)
